@@ -3,6 +3,7 @@ Permite cadastrar, listar, editar e excluir tarefas diretamente pelo console.
 O projeto aplica princípios básicos de organização em camadas (modelo, serviço e repositório), além de boas práticas de lógica de programação e manipulação de listas.
 
 Funcionalidades:
+
 Criar tarefas
 
 Listar tarefas
