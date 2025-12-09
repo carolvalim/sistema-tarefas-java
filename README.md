@@ -4,15 +4,7 @@ O projeto aplica princípios básicos de organização em camadas (modelo, servi
 
 Funcionalidades:
 
-Criar tarefas
-
-Listar tarefas
-
-Editar pelo ID
-
-Excluir tarefas
-
-Estrutura separada em camadas
+Criar tarefas, listar tarefas, editar pelo ID, excluir tarefas e  tem uma estrutura separada em camadas
 
 Tecnologias:
 Java, Programação orientada a objetos e Estrutura básica de CRUD
