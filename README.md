@@ -4,9 +4,13 @@ O projeto aplica princípios básicos de organização em camadas (modelo, servi
 
 Funcionalidades:
 Criar tarefas
+
 Listar tarefas
+
 Editar pelo ID
+
 Excluir tarefas
+
 Estrutura separada em camadas
 
 Tecnologias:
